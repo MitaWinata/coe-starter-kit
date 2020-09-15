@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>cat_sourcecontrolhelper_30cf0</Name>
+  <AppVersion>2020-09-14T19:39:31Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.20081.26.0</CreatedByClientVersion>
+  <MinClientVersion>3.20081.26.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"fbfb07d5-e88d-400a-921c-586c76366f7a","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.20081.26","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+  <DisplayName>Source Control Helper</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+  <ConnectionReferences>{"782752d3-c0d7-4f3e-94cd-c1fa8a826992":{"id":"/providers/microsoft.powerapps/apis/shared_powerappsforappmakers","displayName":"Power Apps for Makers","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1380/1.0.1380.2095/powerappsforappmakers/icon.png","dataSources":["PowerAppsforMakers"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"},"789c69ba-7ebb-4ce9-8343-ad4aa4d25870":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://resourcestackdeploy.blob.core.windows.net/scripts/13276078.png","dataSources":["GetSolutions"],"dependencies":["0ec45341-07e3-46e6-b0aa-ffebec887ddb"],"dependents":[],"parameterHints":{"workflowName":{"value":"67b44478-d9b1-43d8-9221-7095767e1f03"},"0ec45341-07e3-46e6-b0aa-ffebec887ddb":{"value":"shared_commondataservice"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"},"0ec45341-07e3-46e6-b0aa-ffebec887ddb":{"id":"/providers/microsoft.powerapps/apis/shared_commondataservice","displayName":"Common Data Service","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1385/1.0.1385.2110/commondataservice/icon.png","dataSources":[],"dependencies":[],"dependents":["789c69ba-7ebb-4ce9-8343-ad4aa4d25870"],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Premium"},"a459dcad-879d-44eb-9061-4e80e58f754e":{"id":"/providers/microsoft.powerapps/apis/shared_cat-5fcustomazuredevopsorgs-5f1bdc0283b66cd8a9","displayName":"CustomAzureDevOpsOrgs","iconUri":"https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png","dataSources":["CustomAzureDevOpsOrgs"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"},"1138e7a3-2b32-4089-bdeb-03d0b7b15026":{"id":"/providers/microsoft.powerapps/apis/shared_cat-5fcustomazuredevops-5f1bdc0283b66cd8a9","displayName":"CustomAzureDevOps","iconUri":"https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png","dataSources":["CustomAzureDevOps"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <BackgroundImageUri>/CanvasApps/cat_sourcecontrolhelper_30cf0_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/cat_sourcecontrolhelper_30cf0_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
